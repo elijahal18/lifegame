@@ -5,4 +5,4 @@ life: life.c
 	gcc -std=c99 -o life life.c
 
 clean:
-	rm -f life core
+	rm -f life
